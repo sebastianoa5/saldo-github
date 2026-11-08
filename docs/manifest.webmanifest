@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Saldo – Finanze personali",
-  "short_name": "Saldo",
+  "name": "Expense Tracking",
+  "short_name": "Expense Tracking",
   "lang": "it",
   "start_url": "./",
   "scope": "./",
